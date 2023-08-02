@@ -1,6 +1,6 @@
 condition = "y"
 while condition == "y":
-    choice = input("""What would you to calculate?
+    choice = input("""What would you like to calculate?
         Water intake (1)
         Protein intake (2)
         Calorie intake (3) 
